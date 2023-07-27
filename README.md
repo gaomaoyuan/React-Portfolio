@@ -30,7 +30,7 @@ Contribution Standard
 
 ## Tests
 
-undefined
+The application is deployed in Heroku (https://react-portfolio-maoyuan-4b85190ac6c0.herokuapp.com/)
 
 ## Contact Info
 
