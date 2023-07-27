@@ -1,0 +1,16 @@
+.navbar {
+    margin-bottom: 20px;
+  }
+
+div {
+    color: white; 
+}
+
+.aboutme-image {
+  width: 100px;  /* adjust as needed */
+  height: auto;  /* maintain aspect ratio */
+}
+
+body, .content {
+  padding-left: 50px; /* This adds 50 pixels of space inside the left border */
+}

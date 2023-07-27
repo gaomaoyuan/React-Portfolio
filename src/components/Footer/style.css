@@ -1,0 +1,42 @@
+.footer {
+  background-color: #003366; /* Adjust the color as needed */
+  height: 150px; /* Adjust the height as needed */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.app {
+  height: 100px; 
+  margin: 0 20px; 
+}
+
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+body {
+  position: relative;
+  min-height: 100vh;
+  margin: 0;
+  padding-bottom: 150px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 150px; /* Adjust this if you want the footer's height to change */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.app {
+  height: 70px; /* Adjust the size as needed */
+  width: auto;
+  margin: 0 20px; /* This will give space between the images */
+}
